@@ -11,7 +11,7 @@
 
 Knows(but not much) about:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,java,rust,html,css,js,vue,mysql,php,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,git)](https://skillicons.dev)
 
 and: stm32, unity 2D gaming, chisel(the HDL).
 
@@ -19,6 +19,6 @@ Dream to be a fuuuuuuuuuuuuuuull stack guy. Maybe one day I can add 3D CAD, circ
 
 ## Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fros1er)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=freshtian)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fros1er&layout=compact&hide=vhdl,verilog,systemverilog,assembly,plpgsql&exclude_repo=SUSTech-CS301-xiaotiancai-not-watch)](https://github.com/anuraghazra/github-readme-stats)
