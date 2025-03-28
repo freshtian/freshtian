@@ -11,6 +11,7 @@
 Knows(but not much) about:
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,mysql,git)](https://skillicons.dev)
+
 平常用AI写代码太多了，已老实，以后会好好手搓代码，打好代码基础😵
 
 ## Stats
