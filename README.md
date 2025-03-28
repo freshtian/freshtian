@@ -10,9 +10,11 @@
 
 Knows(but not much) about:
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,mysql,git,github,latex,md,postgres,pycharm)](https://skillicons.dev)
 
 平常用AI写代码太多了，已老实，以后会好好手搓代码，打好代码基础😵
+
+技术好多啊，我会慢慢丰富自己掌握的东西的
 
 ## Stats
 
